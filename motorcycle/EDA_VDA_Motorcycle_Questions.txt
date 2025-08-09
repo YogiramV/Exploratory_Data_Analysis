@@ -1,0 +1,31 @@
+📊 EDA & VDA Practice Questions
+
+1. Which brands are the most represented in the dataset?
+   - Use: Value counts, bar plot
+
+2. What is the trend of motorcycle models released over the years?
+   - Use: Line plot or bar chart grouped by 'Year'
+
+3. What is the distribution of engine displacement (ccm) among motorcycles?
+   - Use: Histogram, KDE plot
+
+4. Is there a correlation between engine displacement and power or torque?
+   - Use: Correlation matrix, scatter plots
+
+5. How does fuel capacity vary across different categories of motorcycles (e.g., Sport, Cruiser, etc.)?
+   - Use: Box plot, violin plot
+
+6. Which motorcycle categories have the highest average ratings?
+   - Use: Group by 'Category', bar chart
+
+7. What is the distribution of dry weight, and how does it compare across categories?
+   - Use: Histogram, box plots per category
+
+8. Which cooling systems are most common and how do they relate to engine performance (e.g., power, torque)?
+   - Use: Grouped bar charts, box plots
+
+9. Is there a relationship between seat height and wheelbase across different models?
+   - Use: Scatter plot with regression line
+
+10. How does braking system type (front/rear) vary across motorcycle brands or categories?
+    - Use: Grouped count plots, stacked bar charts
